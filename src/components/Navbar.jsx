@@ -18,9 +18,7 @@ const Navbar = () => {
     { name: "Pets & Supplies", href: "/allpets" },
     ...(user
       ? [
-          { name: "Add Listing", href: "/addListing" },
-          { name: "My Listing", href: "/myListing" },
-          { name: "My Orders", href: "/myOrder" },
+          { name: "My Listing", href: "/mylisting" },
         ]
       : []),
   ];
