@@ -19,6 +19,7 @@ const Navbar = () => {
     ...(user
       ? [
           { name: "My Listing", href: "/mylisting" },
+          { name: "My Orders", href: "/myorders" },
         ]
       : []),
   ];
