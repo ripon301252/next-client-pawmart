@@ -1,0 +1,362 @@
+ [
+  {
+    "image": "https://i.ibb.co.com/qF0Y7xRH/p-1.jpg",
+    "title": "Photo MasterPro",
+    "companyName": "PixelSoft Ltd.",
+    "id": 1,
+    "description": "PhotoMaster Pro refers to different apps, but generally describes a professional-level photo editor with features like AI-powered tools, advanced color adjustments, and collage creation for social media and professional use. The name appears in various apps on Google Play, such as Photomaster for offline, AI-driven editing and collage, and others like Photo Master and Photo Editor Master - Pro for features like color correction and effects. ",
+    "size": 48,
+    "reviews": 12,
+    "ratingAvg": 4.5,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 475 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cK60pf95/p-2.jpg",
+    "title": "Task Flow Manager",
+    "companyName": "Workly Inc.",
+    "id": 2,
+    "description": "A task flow is a diagram that represents a user's journey through a specific task or job to be done (JTBD). You can think of task flows as the DNA of content experience. Instead of viewing a single piece of content in isolation, a task flow allows you to consider how one piece of content connects to the next.",
+    "size": 32,
+    "reviews": 98,
+    "ratingAvg": 4.2,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 360 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1gnZ4Kj/p-3.jpg",
+    "title": "Fit Buddy",
+    "companyName": "HealthZone",
+    "id": 3,
+    "description": "Eating the right amount of food rich in proteins, and good fats such as omega-3, vitamins and minerals, etc is essential. Maintaining a proper sleeping pattern is another important aspect of fitness. Getting enough sleep ensures proper functioning of the mind thus making us more productive",
+    "size": 54,
+    "reviews": 15,
+    "ratingAvg": 4.8,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 410 },
+      { "name": "5 star", "count": 900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gM5pDQFr/p-4.png",
+    "title": "Sound Vibe",
+    "companyName": "MelodyWare",
+    "id": 4,
+    "description": "Overall, sound energy is an important form of energy that is produced by a wide range of sources and is essential for communication, entertainment, and many other aspects of daily life. For example, pleasant sounds like music or the sound of nature can have a positive effect on our well-being, while loud or constant noise can lead to hearing loss, stress, and other health problems.",
+    "size": 68,
+    "reviews": 31,
+    "ratingAvg": 4.6,
+    "downloads": 12,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Jj44BSwr/p-5.jpg",
+    "title": "Travel Go",
+    "companyName": "JetSet Apps",
+    "id": 5,
+    "description": "Traveling is a transformative experience that opens up a world of possibilities and enriches our lives in countless ways. Whether it's a weekend getaway to a nearby town or an adventure across continents, the act of traveling transcends mere movement; it's a journey of self-discovery and exploration.",
+    "size": 59,
+    "reviews": 87,
+    "ratingAvg": 4.3,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 310 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VWctB0Jd/p-6.jpg",
+    "title": "Note Sync",
+    "companyName": "CloudySoft",
+    "id": 6,
+    "description": "Note Sync paragraph refers to features in various note-taking applications that allow a user to create a copy of a paragraph or section of text that stays updated across multiple notes or pages in real-time, ensuring changes are automatically mirrored everywhere the synced paragraph appears To create a synced paragraph, users typically copy a block of text and then choose a 'Paste and sync' option, or they convert an existing block into a 'Synced block'",
+    "size": 27,
+    "reviews": 64,
+    "ratingAvg": 4.0,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 190 },
+      { "name": "5 star", "count": 150 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/8nLrGt3G/p-7.jpg",
+    "title": "Cook Mate",
+    "companyName": "KitchenLab",
+    "id": 7,
+    "description": "What is Cookmate? Cookmate is your AI-powered kitchen assistant, designed to simplify your cooking experience. Whether you're looking for personalized meal plans, step-by-step recipe guidance, or smart ingredient suggestions, Cookmate has you covered. Discover, save, and share recipes with a smart cooking assistant.",
+    "size": 40,
+    "reviews": 22,
+    "ratingAvg": 4.7,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 55 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 650 },
+      { "name": "5 star", "count": 1205 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/tTDZW3S8/p-8.jpg.png",
+    "title": "Finance Track",
+    "companyName": "MoneyMind Tech",
+    "id": 8,
+    "description": " Financial tracking, also known as expense tracking, is the process of keeping tabs on your income and spending — ideally on a daily basis. It's achieved by recording receipts, invoices and business expenses on an accounting ledger. Tracking your finances goes hand in hand with creating a business budget. Track expenses, set budgets, and reach financial goals easily.",
+    "size": 36,
+    "reviews": 19,
+    "ratingAvg": 4.4,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 550 },
+      { "name": "5 star", "count": 870 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vC4L3SK5/p-9.jpg",
+    "title": "Langley",
+    "companyName": "EduWorld",
+    "id": 9,
+    "description": "Langley is a municipality in the Lower Mainland of British Columbia, Canada, offering a blend of rural and urban lifestyles, with a strong economy centered on agriculture, diverse housing, and a wide array of community services. Its history as a significant crossroads, once known as Langley Prairie, was shaped by Indigenous trails, the Fraser Canyon Gold Rush, and the eventual development of the area into a self-governing city. Today, Langley is a destination for wine, craft breweries, and community events, providing residents with a high quality of life and opportunities to live, work, and play. Learn languages fast with AI-based lessons and pronunciation tips.",
+    "size": 41,
+    "reviews": 23,
+    "ratingAvg": 4.6,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1190 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1fMvs71R/p-10.jpg",
+    "title": "WeatherPro Plus",
+    "companyName": "ClimaSoft",
+    "id": 10,
+    "description": "WeatherPro Plus can refer to two different products: a premium acrylic exterior paint from Shalimar Paints with sun reflect and algal/fungal resistant technology for all-weather protection, or an integral waterproofing liquid additive from UltraTech that reduces water permeability in concrete, plaster, and mortar, making them dense and durable. It could also refer to a Weather-Pro system of weather sensors with features like alarms, logging, and remote communication, or even a weather-related app.  Accurate weather forecasts, radar maps, and real-time alerts.",
+    "size": 33,
+    "reviews": 13,
+    "ratingAvg": 4.2,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vCHZZ29m/p-11.jpg",
+    "title": "Mind Ease",
+    "companyName": "CalmTech",
+    "id": 11,
+    "description": "Meditation and relaxation app for better mental health. Groundbreaking results from a recent randomized controlled trial put Mind Ease at the pinnacle of mental health apps. This AI-powered app doesn't just track your mood — it understands you, guides you, and helps you grow. Daily Mood Log – Express how you feel in seconds.",
+    "size": 50,
+    "reviews": 32,
+    "ratingAvg": 4.8,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WpWVz3Jk/p-12.jpg",
+    "title": "Read Wise",
+    "companyName": "SmartStudy",
+    "id": 12,
+    "description": "Read wise lets you import highlights from almost any reading source, review the part through a daily email or the app, and progressively recall more and grow your knowledge over time. Summarize and store your book notes effortlessly.",
+    "size": 24,
+    "reviews": 95,
+    "ratingAvg": 4.1,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Q7Ng06ms/p-13.jpg",
+    "title": "Game Boost",
+    "companyName": "Speedify Labs",
+    "id": 13,
+    "description": "Think of it as a performance enhancer that knows exactly what your game needs and clears the path for it to run smoothly. Game boosters are not just for PC. Today, many mobile gamers use boosters on Android and iOS to ensure a seamless gameplay experience without overheating, crashing, or battery drain issues. Optimize your mobile gaming performance instantly.",
+    "size": 61,
+    "reviews": 27,
+    "ratingAvg": 4.6,
+    "downloads": 11,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1620 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KpGXZS0X/p-14.png",
+    "title": "Pet Care",
+    "companyName": "PawSoft",
+    "id": 14,
+    "description": " Pet care is the responsible nurturing of pets through providing nutrition, hydration, shelter, regular exercise, and consistent veterinary care, including vaccinations and dental care, to ensure their health, safety, and happiness. Beyond the essentials, pet care involves grooming, cleanliness, and mental stimulation through play and training to strengthen the human-animal bond and promote a fulfilling life for the anima. Pet health tracker and veterinary appointment scheduler.",
+    "size": 37,
+    "reviews": 80,
+    "ratingAvg": 4.3,
+    "downloads": 20,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/N21xhdYt/p-15.jpg",
+    "title": "Smart Home",
+    "companyName": "DomoticsCo.",
+    "id": 15,
+    "description": "A smart home integrates internet-connected devices, allowing homeowners to remotely control and automate systems like lighting, climate, security, and appliances using a smartphone or tablet. This home automation enhances convenience, improves security through features like smart locks and cameras, and boosts energy efficiency by enabling personalized schedules and remote adjustments for devices such as thermostats. The core idea is to create a more responsive, personalized, and efficient living environment by connecting various household components into a single, manageable network. Control all your smart devices from one dashboard.",
+    "size": 46,
+    "reviews": 15,
+    "ratingAvg": 4.5,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 660 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/8Dz6wd30/p-16.jpg",
+    "title": "Time Hero",
+    "companyName": "FocusDev",
+    "id": 16,
+    "description": "Time Hero is the smart productivity platform that brings together work management, planning and automation together to get work done. From Freelancers to global firms, people all around the world use TimeHero to plan work for their teams, optimize workflows, and propel their business forward. Boost your productivity using smart time-tracking tools.",
+    "size": 28,
+    "reviews": 12,
+    "ratingAvg": 4.2,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 490 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FLf5n0v9/p-17.jpg",
+    "title": "Shoply",
+    "companyName": "EcomSoft",
+    "id": 17,
+    "description": "The supermarket typically has places for fresh meat, fresh produce, dairy, deli items, baked goods, and similar foodstuffs. Shelf space is also reserved for canned and packaged goods and for various non-food items such as kitchenware, household cleaners, pharmacy products and pet supplies. Shop your favorite brands with exclusive discounts.",
+    "size": 52,
+    "reviews": 27,
+    "ratingAvg": 4.6,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 290 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1470 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yBb0tQs3/p-18.jpg",
+    "title": "Daily Quotes",
+    "companyName": "InspireCo",
+    "id": 18,
+    "description": " a short passage containing one or more inspirational or motivational quotes that are meant to provide a positive outlook for the day, like 'Life is like riding a bicycle. To keep your balance, you must keep moving' by Albert Einstein, and can be found on websites offering daily inspiration and encouragement.  Get daily inspirational quotes and affirmations.",
+    "size": 19,
+    "reviews": 85,
+    "ratingAvg": 4.7,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 460 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/V0JdVJ76/p-19.png",
+    "title": "ReNow",
+    "companyName": "UrbanMove",
+    "id": 19,
+    "description": "Fast, affordable, and reliable re-booking service. ReNew is an Indian-based company that develops, owns, and operates utility-scale wind and solar energy projects. Founded in 2011 by Sumant Sinha, the company is at the forefront of India's efforts to transition to clean energy and fight climate change. It has grown to become one of the largest renewable energy companies in the country, with its clean energy projects comprising approximately 1.4% of India's total installed renewable capacity. The company's portfolio includes projects in wind, solar, and other green solutions, and it is a key player in helping corporate and industrial clients meet their sustainability targets. ReNew has also set ambitious ESG goals for 2030, including becoming water positive and diverting all solid waste from landfills.",
+    "size": 57,
+    "reviews": 34,
+    "ratingAvg": 4.5,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 370 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1840 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SDThyDG6/p-20.png",
+    "title": "Movie Box",
+    "companyName": "Streamify",
+    "id": 20,
+    "description": "Watch movies and shows with friends anytime, anywhere.Movie Box refers to several different entities, including a video downloader app for Android with ultra-speed downloading and features like background playback and playlist creation; an Android app for discovering and organizing movies and TV shows, leveraging the TMDB API to provide information and track releases; a book of iconic photographs of the film industry titled MovieBox: Photographing the Magic of Cinema; and a TV show, Moviebox, that delivered news and behind-the-scenes content from the movie industry. ",
+    "size": 75,
+    "reviews": 47,
+    "ratingAvg": 4.8,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 950 },
+      { "name": "5 star", "count": 3020 }
+    ]
+  }
+]

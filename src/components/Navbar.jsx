@@ -15,7 +15,7 @@ const Navbar = () => {
 
   const links = [
     { name: "Home", href: "/" },
-    { name: "Pets & Supplies", href: "/allpets" },
+    { name: "Apps", href: "/apps" },
     ...(user
       ? [
           { name: "My Listing", href: "/mylisting" },
